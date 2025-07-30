@@ -1,0 +1,16 @@
+body {
+    background-color: bisque;
+    font-family: Bai jamjuree;
+}
+footer{
+    background-color: black;
+    position: fixed;
+    color: aliceblue;
+    bottom: 0;
+    width: 100%;
+}
+footer p{
+    text-align: center;
+    font-size: 1rem;
+    margin-top: 0.5rem;
+}
